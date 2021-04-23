@@ -1,0 +1,5965 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+<key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+<key attr.name="book" attr.type="int" for="edge" id="book"/>
+<graph edgedefault="undirected">
+<node id="Aegon-I-Targaryen">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.004216533003203266</data>
+<data key="degree">5</data>
+<data key="size">8.317856</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-786.8515</data>
+<data key="y">-271.34314</data>
+</node>
+<node id="Harren-Hoare">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0023695923017086327</data>
+<data key="degree">3</data>
+<data key="size">5.8658314</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-814.42004</data>
+<data key="y">-200.41365</data>
+</node>
+<node id="Nan">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.003528092805585473</data>
+<data key="degree">5</data>
+<data key="size">7.403873</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-898.83496</data>
+<data key="y">-155.91318</data>
+</node>
+<node id="Rhaenys-Targaryen">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.002253921303139963</data>
+<data key="degree">2</data>
+<data key="size">5.712265</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-791.56573</data>
+<data key="y">-397.64685</data>
+</node>
+<node id="Tyrion-Lannister">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.028080509370634412</data>
+<data key="degree">53</data>
+<data key="size">40.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-540.20557</data>
+<data key="y">223.97859</data>
+</node>
+<node id="Visenya-Targaryen">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.002253921303139963</data>
+<data key="degree">2</data>
+<data key="size">5.712265</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-790.6372</data>
+<data key="y">-421.79593</data>
+</node>
+<node id="Aegon-V-Targaryen">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0014435983731874063</data>
+<data key="degree">1</data>
+<data key="size">4.636469</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1106.3292</data>
+<data key="y">-453.7238</data>
+</node>
+<node id="Aemon-Targaryen-(Maester-Aemon)">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.00610082512671959</data>
+<data key="degree">6</data>
+<data key="size">10.819468</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1052.8569</data>
+<data key="y">-351.2872</data>
+</node>
+<node id="Daeron-II-Targaryen">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0014435983731874063</data>
+<data key="degree">1</data>
+<data key="size">4.636469</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1127.6984</data>
+<data key="y">-449.58234</data>
+</node>
+<node id="Jeor-Mormont">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.01081323685326025</data>
+<data key="degree">15</data>
+<data key="size">17.07573</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-986.3626</data>
+<data key="y">-317.53635</data>
+</node>
+<node id="Jon-Snow">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.018762812744849606</data>
+<data key="degree">28</data>
+<data key="size">27.629698</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-990.2434</data>
+<data key="y">-236.64774</data>
+</node>
+<node id="Maekar-I-Targaryen">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0014435983731874063</data>
+<data key="degree">1</data>
+<data key="size">4.636469</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1128.0104</data>
+<data key="y">-429.67487</data>
+</node>
+<node id="Samwell-Tarly">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.00464440061080489</data>
+<data key="degree">6</data>
+<data key="size">8.885899</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1012.9766</data>
+<data key="y">-287.2721</data>
+</node>
+<node id="Aenys-Frey">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0010529740715396372</data>
+<data key="degree">1</data>
+<data key="size">4.117871</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-667.797</data>
+<data key="y">-154.65169</data>
+</node>
+<node id="Arya-Stark">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.022298572239823986</data>
+<data key="degree">40</data>
+<data key="size">32.323822</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-718.946</data>
+<data key="y">-119.18797</data>
+</node>
+<node id="Aeron-Greyjoy">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0018324868857318</data>
+<data key="degree">2</data>
+<data key="size">5.152763</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1108.4673</data>
+<data key="y">214.5233</data>
+</node>
+<node id="Dagmer">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0037094969133212507</data>
+<data key="degree">5</data>
+<data key="size">7.6447077</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1138.4822</data>
+<data key="y">217.84087</data>
+</node>
+<node id="Theon-Greyjoy">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.023439787382219416</data>
+<data key="degree">32</data>
+<data key="size">33.838913</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1068.229</data>
+<data key="y">174.85202</data>
+</node>
+<node id="Aerys-I-Targaryen">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0010259807371078254</data>
+<data key="degree">1</data>
+<data key="size">4.082034</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-758.7827</data>
+<data key="y">69.34472</data>
+</node>
+<node id="Robert-Baratheon">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.013667883731596785</data>
+<data key="degree">26</data>
+<data key="size">20.865599</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-441.0855</data>
+<data key="y">-289.03302</data>
+</node>
+<node id="Aerys-II-Targaryen">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.002954729605674662</data>
+<data key="degree">5</data>
+<data key="size">6.642668</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-355.29773</data>
+<data key="y">-409.38574</data>
+</node>
+<node id="Eddard-Stark">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.011279106537733763</data>
+<data key="degree">22</data>
+<data key="size">17.694225</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-180.55313</data>
+<data key="y">-182.60954</data>
+</node>
+<node id="Jaime-Lannister">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.010567327627591331</data>
+<data key="degree">21</data>
+<data key="size">16.749256</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-690.40424</data>
+<data key="y">211.12714</data>
+</node>
+<node id="Rhaegar-Targaryen">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0028936730167874822</data>
+<data key="degree">4</data>
+<data key="size">6.5616083</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-294.2258</data>
+<data key="y">-285.94482</data>
+</node>
+<node id="Aggar">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.005006770155258172</data>
+<data key="degree">4</data>
+<data key="size">9.366985</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1453.9735</data>
+<data key="y">181.98453</data>
+</node>
+<node id="Gariss">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.003345776763187947</data>
+<data key="degree">2</data>
+<data key="size">7.161827</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1641.0591</data>
+<data key="y">213.01195</data>
+</node>
+<node id="Gelmarr">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0016438415314214538</data>
+<data key="degree">1</data>
+<data key="size">4.9023147</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1535.9349</data>
+<data key="y">195.44118</data>
+</node>
+<node id="Gynir">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.002353534475464222</data>
+<data key="degree">2</data>
+<data key="size">5.844513</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1369.852</data>
+<data key="y">193.83714</data>
+</node>
+<node id="Ramsay-Snow">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.006447025306008425</data>
+<data key="degree">9</data>
+<data key="size">11.279087</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1141.8105</data>
+<data key="y">112.82064</data>
+</node>
+<node id="Aggo">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.003998669910168817</data>
+<data key="degree">5</data>
+<data key="size">8.028618</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-211.91118</data>
+<data key="y">-321.80075</data>
+</node>
+<node id="Belwas">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0038056174796416145</data>
+<data key="degree">5</data>
+<data key="size">7.7723184</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-265.7013</data>
+<data key="y">-251.66652</data>
+</node>
+<node id="Daenerys-Targaryen">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.015463147120597332</data>
+<data key="degree">18</data>
+<data key="size">23.249016</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-261.6307</data>
+<data key="y">-346.57867</data>
+</node>
+<node id="Jhogo">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0032501354111982026</data>
+<data key="degree">4</data>
+<data key="size">7.034853</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-233.87965</data>
+<data key="y">-305.31497</data>
+</node>
+<node id="Jorah-Mormont">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.007218979091149886</data>
+<data key="degree">10</data>
+<data key="size">12.303945</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-333.20453</data>
+<data key="y">-290.83362</data>
+</node>
+<node id="Rakharo">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.002603080699006222</data>
+<data key="degree">3</data>
+<data key="size">6.1758137</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-194.4667</data>
+<data key="y">-355.39743</data>
+</node>
+<node id="Alayaya">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.002382248907762002</data>
+<data key="degree">2</data>
+<data key="size">5.8826346</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-282.93918</data>
+<data key="y">393.7267</data>
+</node>
+<node id="Dancy">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.001591564630155807</data>
+<data key="degree">1</data>
+<data key="size">4.832911</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-192.38846</data>
+<data key="y">453.44977</data>
+</node>
+<node id="Alebelly">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0029377144137266637</data>
+<data key="degree">4</data>
+<data key="size">6.620078</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1108.8439</data>
+<data key="y">-41.235207</data>
+</node>
+<node id="Bran-Stark">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.01825559373649741</data>
+<data key="degree">30</data>
+<data key="size">26.956308</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1029.1075</data>
+<data key="y">24.1735</data>
+</node>
+<node id="Hayhead">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0017207201561223137</data>
+<data key="degree">2</data>
+<data key="size">5.0043797</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1129.4873</data>
+<data key="y">-31.654894</data>
+</node>
+<node id="Jojen-Reed">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.004152988864692349</data>
+<data key="degree">7</data>
+<data key="size">8.233494</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1059.8799</data>
+<data key="y">-20.102695</data>
+</node>
+<node id="Mikken">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.003562318563747916</data>
+<data key="degree">5</data>
+<data key="size">7.4493113</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1127.2408</data>
+<data key="y">10.925584</data>
+</node>
+<node id="Alester-Florent">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.002630536233041188</data>
+<data key="degree">4</data>
+<data key="size">6.212264</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-591.158</data>
+<data key="y">478.24188</data>
+</node>
+<node id="Cortnay-Penrose">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.004209991528376361</data>
+<data key="degree">7</data>
+<data key="size">8.309171</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-590.16895</data>
+<data key="y">409.1919</data>
+</node>
+<node id="Davos-Seaworth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.009227562667976445</data>
+<data key="degree">13</data>
+<data key="size">14.970568</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-612.8586</data>
+<data key="y">442.59262</data>
+</node>
+<node id="Renly-Baratheon">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.017003736636484957</data>
+<data key="degree">31</data>
+<data key="size">25.294323</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-704.1844</data>
+<data key="y">303.3593</data>
+</node>
+<node id="Stannis-Baratheon">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.020487780565694884</data>
+<data key="degree">37</data>
+<data key="size">29.919788</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-636.00806</data>
+<data key="y">350.69095</data>
+</node>
+<node id="Allar-Deem">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0014680039551876693</data>
+<data key="degree">2</data>
+<data key="size">4.6688704</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-396.87683</data>
+<data key="y">253.39995</data>
+</node>
+<node id="Janos-Slynt">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.004127810911122429</data>
+<data key="degree">8</data>
+<data key="size">8.200067</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-479.5218</data>
+<data key="y">196.9505</data>
+</node>
+<node id="Allard-Seaworth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0028259810654327044</data>
+<data key="degree">3</data>
+<data key="size">6.47174</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-571.1648</data>
+<data key="y">558.7222</data>
+</node>
+<node id="Marya-Seaworth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0013798190083006943</data>
+<data key="degree">1</data>
+<data key="size">4.5517945</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-545.7816</data>
+<data key="y">633.0478</data>
+</node>
+<node id="Alliser-Thorne">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0026104985851280373</data>
+<data key="degree">4</data>
+<data key="size">6.1856623</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-696.98785</data>
+<data key="y">7.1132326</data>
+</node>
+<node id="Joffrey-Baratheon">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.022041400159479883</data>
+<data key="degree">47</data>
+<data key="size">31.982395</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-543.0035</data>
+<data key="y">124.62317</data>
+</node>
+<node id="Amabel">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0018312046198705667</data>
+<data key="degree">2</data>
+<data key="size">5.1510606</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-713.79034</data>
+<data key="y">-255.91533</data>
+</node>
+<node id="Harra">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0018312046198705667</data>
+<data key="degree">2</data>
+<data key="size">5.1510606</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-712.7975</data>
+<data key="y">-292.5736</data>
+</node>
+<node id="Amory-Lorch">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.008183193166061406</data>
+<data key="degree">18</data>
+<data key="size">13.584047</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-605.7896</data>
+<data key="y">-62.864563</data>
+</node>
+<node id="Cersei-Lannister">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.01991085706780189</data>
+<data key="degree">43</data>
+<data key="size">29.153856</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-614.5218</data>
+<data key="y">168.73375</data>
+</node>
+<node id="Chiswyck">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.005594494544347781</data>
+<data key="degree">13</data>
+<data key="size">10.147256</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-553.9297</data>
+<data key="y">-94.00438</data>
+</node>
+<node id="Dunsen">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.005594494544347781</data>
+<data key="degree">13</data>
+<data key="size">10.147256</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-477.64825</data>
+<data key="y">-73.12916</data>
+</node>
+<node id="Gendry">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.005188919084164495</data>
+<data key="degree">8</data>
+<data key="size">9.6088085</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-695.1021</data>
+<data key="y">-210.98793</data>
+</node>
+<node id="Gregor-Clegane">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.006011752405864107</data>
+<data key="degree">14</data>
+<data key="size">10.701214</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-551.1434</data>
+<data key="y">-40.3318</data>
+</node>
+<node id="Hot-Pie">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0050225985250143355</data>
+<data key="degree">8</data>
+<data key="size">9.388</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-682.24243</data>
+<data key="y">-178.40656</data>
+</node>
+<node id="Ilyn-Payne">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.005554166408191112</data>
+<data key="degree">13</data>
+<data key="size">10.093716</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-552.6672</data>
+<data key="y">21.321121</data>
+</node>
+<node id="Meryn-Trant">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0064620201576962855</data>
+<data key="degree">15</data>
+<data key="size">11.298995</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-472.188</data>
+<data key="y">49.186558</data>
+</node>
+<node id="Polliver">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.005594494544347781</data>
+<data key="degree">13</data>
+<data key="size">10.147256</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-511.00946</data>
+<data key="y">-55.398518</data>
+</node>
+<node id="Rafford">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.005171097535216354</data>
+<data key="degree">12</data>
+<data key="size">9.585148</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-512.9634</data>
+<data key="y">-96.673904</data>
+</node>
+<node id="Roose-Bolton">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.005613390931018852</data>
+<data key="degree">9</data>
+<data key="size">10.172343</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-849.88043</data>
+<data key="y">-20.636742</data>
+</node>
+<node id="Sandor-Clegane">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0077018427955794</data>
+<data key="degree">17</data>
+<data key="size">12.945001</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-516.40875</data>
+<data key="y">52.230442</data>
+</node>
+<node id="Tickler">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.00470035268465635</data>
+<data key="degree">11</data>
+<data key="size">8.960181</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-484.65573</data>
+<data key="y">-18.824652</data>
+</node>
+<node id="Tywin-Lannister">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.008329880876563485</data>
+<data key="degree">17</data>
+<data key="size">13.778793</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-712.5633</data>
+<data key="y">77.07662</data>
+</node>
+<node id="Vargo-Hoat">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0036187618354154467</data>
+<data key="degree">6</data>
+<data key="size">7.524246</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-782.4027</data>
+<data key="y">-89.67753</data>
+</node>
+<node id="Yoren">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.006893290003729993</data>
+<data key="degree">12</data>
+<data key="size">11.871555</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-660.28455</data>
+<data key="y">-205.58368</data>
+</node>
+<node id="Ardrian-Celtigar">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0013798190083006943</data>
+<data key="degree">1</data>
+<data key="size">4.5517945</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-585.1633</data>
+<data key="y">678.36926</data>
+</node>
+<node id="Monford-Velaryon">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0028259810654327044</data>
+<data key="degree">3</data>
+<data key="size">6.47174</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-598.3144</data>
+<data key="y">604.1947</data>
+</node>
+<node id="Aron-Santagar">
+<data key="modularity_class">3</data>
+<data key="pageranks">9.64190045705976E-4</data>
+<data key="degree">1</data>
+<data key="size">4.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-361.91583</data>
+<data key="y">-7.833419</data>
+</node>
+<node id="Arwyn-Oakheart">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.001166203157174629</data>
+<data key="degree">1</data>
+<data key="size">4.268195</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-759.2934</data>
+<data key="y">600.3402</data>
+</node>
+<node id="Randyll-Tarly">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.004144063812175776</data>
+<data key="degree">6</data>
+<data key="size">8.221644</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-731.2597</data>
+<data key="y">466.50143</data>
+</node>
+<node id="Beric-Dondarrion">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.002419116965702894</data>
+<data key="degree">2</data>
+<data key="size">5.931581</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-692.62726</data>
+<data key="y">-322.23172</data>
+</node>
+<node id="Biter">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0025915067752184814</data>
+<data key="degree">4</data>
+<data key="size">6.160448</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-730.0298</data>
+<data key="y">-225.24394</data>
+</node>
+<node id="Dobber">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0010529740715396372</data>
+<data key="degree">1</data>
+<data key="size">4.117871</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-779.8304</data>
+<data key="y">-194.85233</data>
+</node>
+<node id="Jaqen-Hghar">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0036053981512384273</data>
+<data key="degree">6</data>
+<data key="size">7.506504</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-732.3058</data>
+<data key="y">-197.17087</data>
+</node>
+<node id="Koss">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.001541228096259731</data>
+<data key="degree">2</data>
+<data key="size">4.7660837</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-641.5599</data>
+<data key="y">-258.5618</data>
+</node>
+<node id="Lommy-Greenhands">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0036998760784128656</data>
+<data key="degree">6</data>
+<data key="size">7.631934</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-705.6608</data>
+<data key="y">-186.23453</data>
+</node>
+<node id="Praed">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0010529740715396372</data>
+<data key="degree">1</data>
+<data key="size">4.117871</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-739.45667</data>
+<data key="y">-270.09503</data>
+</node>
+<node id="Rickon-Stark">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.008144024115436485</data>
+<data key="degree">15</data>
+<data key="size">13.532047</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-973.96564</data>
+<data key="y">46.514484</data>
+</node>
+<node id="Robb-Stark">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.01979063910073131</data>
+<data key="degree">35</data>
+<data key="size">28.994255</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-836.62085</data>
+<data key="y">136.20567</data>
+</node>
+<node id="Rorge">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.003808543769488076</data>
+<data key="degree">6</data>
+<data key="size">7.776203</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-752.32025</data>
+<data key="y">-217.23972</data>
+</node>
+<node id="Sansa-Stark">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.013278540118725824</data>
+<data key="degree">27</data>
+<data key="size">20.348701</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-611.63983</data>
+<data key="y">91.315445</data>
+</node>
+<node id="Syrio-Forel">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.001541228096259731</data>
+<data key="degree">2</data>
+<data key="size">4.7660837</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-757.9587</data>
+<data key="y">-194.54762</data>
+</node>
+<node id="Weasel">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.002533677908893262</data>
+<data key="degree">4</data>
+<data key="size">6.0836735</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-650.96027</data>
+<data key="y">-170.6685</data>
+</node>
+<node id="Weese">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.003980745353362789</data>
+<data key="degree">8</data>
+<data key="size">8.00482</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-628.1955</data>
+<data key="y">-118.64438</data>
+</node>
+<node id="Woth">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.003150139381735161</data>
+<data key="degree">5</data>
+<data key="size">6.9020967</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-673.28186</data>
+<data key="y">-264.84103</data>
+</node>
+<node id="Arys-Oakheart">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0018925332284580932</data>
+<data key="degree">3</data>
+<data key="size">5.232481</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-420.5767</data>
+<data key="y">84.91825</data>
+</node>
+<node id="Myrcella-Baratheon">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.006429858275240741</data>
+<data key="degree">11</data>
+<data key="size">11.256296</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-432.4808</data>
+<data key="y">132.24811</data>
+</node>
+<node id="Asha-Greyjoy">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0030797106299402114</data>
+<data key="degree">4</data>
+<data key="size">6.8085947</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1123.8684</data>
+<data key="y">196.42664</data>
+</node>
+<node id="Balon-Greyjoy">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.005058864132198316</data>
+<data key="degree">8</data>
+<data key="size">9.436146</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-993.1048</data>
+<data key="y">206.49672</data>
+</node>
+<node id="Wex-Pyke">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0041735368192904534</data>
+<data key="degree">5</data>
+<data key="size">8.260773</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1188.7356</data>
+<data key="y">183.03261</data>
+</node>
+<node id="Axell-Florent">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.00165656589741398</data>
+<data key="degree">2</data>
+<data key="size">4.9192076</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-680.6182</data>
+<data key="y">470.52158</data>
+</node>
+<node id="Selyse-Florent">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0028554606563357217</data>
+<data key="degree">4</data>
+<data key="size">6.510877</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-672.5843</data>
+<data key="y">441.3287</data>
+</node>
+<node id="Bael-the-Bard">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0013693156159930871</data>
+<data key="degree">1</data>
+<data key="size">4.5378504</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1171.3411</data>
+<data key="y">-334.87936</data>
+</node>
+<node id="Ygritte">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0037180376769450794</data>
+<data key="degree">4</data>
+<data key="size">7.6560464</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1107.3461</data>
+<data key="y">-290.55246</data>
+</node>
+<node id="Ballabar">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0015694449130222387</data>
+<data key="degree">2</data>
+<data key="size">4.8035445</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-478.55316</data>
+<data key="y">309.0167</data>
+</node>
+<node id="Podrick-Payne">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.002541299918758629</data>
+<data key="degree">4</data>
+<data key="size">6.093793</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-459.28375</data>
+<data key="y">297.74057</data>
+</node>
+<node id="Catelyn-Stark">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.01822470466474102</data>
+<data key="degree">33</data>
+<data key="size">26.915297</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-781.28595</data>
+<data key="y">264.89117</data>
+</node>
+<node id="Victarion-Greyjoy">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0017393484755653986</data>
+<data key="degree">2</data>
+<data key="size">5.029111</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1081.2043</data>
+<data key="y">268.8585</data>
+</node>
+<node id="Balon-Swann">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0026686274937401415</data>
+<data key="degree">5</data>
+<data key="size">6.2628345</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-422.2403</data>
+<data key="y">167.59036</data>
+</node>
+<node id="Mandon-Moore">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.003540522998059883</data>
+<data key="degree">7</data>
+<data key="size">7.420375</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-458.60065</data>
+<data key="y">178.75383</data>
+</node>
+<node id="Osmund-Kettleblack">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0036616202548187464</data>
+<data key="degree">7</data>
+<data key="size">7.581146</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-447.99008</data>
+<data key="y">96.984764</data>
+</node>
+<node id="Barristan-Selmy">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.003612346347782641</data>
+<data key="degree">6</data>
+<data key="size">7.515729</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-414.1497</data>
+<data key="y">-1.0034204</data>
+</node>
+<node id="Varys">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.01029973412257833</data>
+<data key="degree">21</data>
+<data key="size">16.393997</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-522.7804</data>
+<data key="y">293.8016</data>
+</node>
+<node id="Benfred-Tallhart">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.003964376785244222</data>
+<data key="degree">4</data>
+<data key="size">7.9830894</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1257.4259</data>
+<data key="y">192.90852</data>
+</node>
+<node id="Helman-Tallhart">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0014216607286838155</data>
+<data key="degree">1</data>
+<data key="size">4.6073446</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1361.1661</data>
+<data key="y">227.76851</data>
+</node>
+<node id="Leobald-Tallhart">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.002579617996500772</data>
+<data key="degree">3</data>
+<data key="size">6.144665</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1245.813</data>
+<data key="y">115.13529</data>
+</node>
+<node id="Stygg">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.002905008901815672</data>
+<data key="degree">3</data>
+<data key="size">6.5766582</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1265.7012</data>
+<data key="y">227.7425</data>
+</node>
+<node id="Benjen-Stark">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0011919710067935453</data>
+<data key="degree">1</data>
+<data key="size">4.3024054</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-984.7183</data>
+<data key="y">-400.59726</data>
+</node>
+<node id="Thoros-of-Myr">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0016072451327997879</data>
+<data key="degree">1</data>
+<data key="size">4.853729</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-676.1516</data>
+<data key="y">-438.62582</data>
+</node>
+<node id="Beth-Cassel">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.002255906137000554</data>
+<data key="degree">3</data>
+<data key="size">5.7149</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1155.7406</data>
+<data key="y">78.462845</data>
+</node>
+<node id="Rodrik-Cassel">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.010103932555602881</data>
+<data key="degree">16</data>
+<data key="size">16.134048</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1090.3209</data>
+<data key="y">85.96006</data>
+</node>
+<node id="Boros-Blount">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0039169886084730095</data>
+<data key="degree">8</data>
+<data key="size">7.920176</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-470.37915</data>
+<data key="y">118.74391</data>
+</node>
+<node id="Gyles-Rosby">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.004577323097776168</data>
+<data key="degree">9</data>
+<data key="size">8.796845</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-386.43832</data>
+<data key="y">160.36273</data>
+</node>
+<node id="Tanda-Stokeworth">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.003318992581934015</data>
+<data key="degree">6</data>
+<data key="size">7.1262684</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-364.94565</data>
+<data key="y">185.0275</data>
+</node>
+<node id="Tommen-Baratheon">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.004810919407771209</data>
+<data key="degree">10</data>
+<data key="size">9.106971</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-473.20975</data>
+<data key="y">147.75327</data>
+</node>
+<node id="Chayle">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0017020549819047812</data>
+<data key="degree">2</data>
+<data key="size">4.9795995</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1181.7235</data>
+<data key="y">-19.729952</data>
+</node>
+<node id="Cley-Cerwyn">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.002254379689820793</data>
+<data key="degree">3</data>
+<data key="size">5.7128735</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1169.1572</data>
+<data key="y">36.70492</data>
+</node>
+<node id="Donella-Hornwood">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.005114726848129443</data>
+<data key="degree">7</data>
+<data key="size">9.510309</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1197.3744</data>
+<data key="y">70.08429</data>
+</node>
+<node id="Hodor">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.004631498272970718</data>
+<data key="degree">8</data>
+<data key="size">8.868769</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1079.2344</data>
+<data key="y">17.785732</data>
+</node>
+<node id="Howland-Reed">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0010964224220038365</data>
+<data key="degree">1</data>
+<data key="size">4.1755533</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1166.9972</data>
+<data key="y">-43.42953</data>
+</node>
+<node id="Luwin">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.006813190399877812</data>
+<data key="degree">12</data>
+<data key="size">11.765214</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1049.7301</data>
+<data key="y">76.55727</data>
+</node>
+<node id="Meera-Reed">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.003532540261851632</data>
+<data key="degree">6</data>
+<data key="size">7.409777</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1080.3475</data>
+<data key="y">-6.667301</data>
+</node>
+<node id="Osha">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.005246419001992779</data>
+<data key="degree">9</data>
+<data key="size">9.685146</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1083.0233</data>
+<data key="y">45.460068</data>
+</node>
+<node id="Poxy-Tym">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0010964224220038365</data>
+<data key="degree">1</data>
+<data key="size">4.1755533</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1154.4559</data>
+<data key="y">-61.097054</data>
+</node>
+<node id="Reek">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0017052975968625895</data>
+<data key="degree">2</data>
+<data key="size">4.983905</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1201.879</data>
+<data key="y">38.72706</data>
+</node>
+<node id="Stafford-Lannister">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0024741692552583514</data>
+<data key="degree">4</data>
+<data key="size">6.004669</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-897.5792</data>
+<data key="y">194.25801</data>
+</node>
+<node id="Walder-Frey-(son-of-Jammos)">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0016622011679078364</data>
+<data key="degree">2</data>
+<data key="size">4.926689</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1155.9631</data>
+<data key="y">6.3395505</data>
+</node>
+<node id="Walder-Frey-(son-of-Merrett)">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.003993563792413582</data>
+<data key="degree">6</data>
+<data key="size">8.021838</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1127.9882</data>
+<data key="y">46.514164</data>
+</node>
+<node id="Wyman-Manderly">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.00260599630567872</data>
+<data key="degree">4</data>
+<data key="size">6.1796846</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1022.468</data>
+<data key="y">96.58785</data>
+</node>
+<node id="Brienne-of-Tarth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.006164377685836222</data>
+<data key="degree">10</data>
+<data key="size">10.903841</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-775.00354</data>
+<data key="y">336.31372</data>
+</node>
+<node id="Edmure-Tully">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0041569453524002405</data>
+<data key="degree">7</data>
+<data key="size">8.238747</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-834.256</data>
+<data key="y">229.50992</data>
+</node>
+<node id="Emmon-Cuy">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.002190699507436209</data>
+<data key="degree">3</data>
+<data key="size">5.6283307</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-804.41565</data>
+<data key="y">401.26447</data>
+</node>
+<node id="Robar-Royce">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0021931890577644776</data>
+<data key="degree">3</data>
+<data key="size">5.631636</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-827.0624</data>
+<data key="y">373.73737</data>
+</node>
+<node id="Selwyn-Tarth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.001103103628427806</data>
+<data key="degree">1</data>
+<data key="size">4.1844234</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-832.6917</data>
+<data key="y">445.52463</data>
+</node>
+<node id="Vyman">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0021882621637355692</data>
+<data key="degree">3</data>
+<data key="size">5.625095</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-859.49146</data>
+<data key="y">389.79178</data>
+</node>
+<node id="Bronn">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.005037233885244343</data>
+<data key="degree">10</data>
+<data key="size">9.407429</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-467.06696</data>
+<data key="y">246.83836</data>
+</node>
+<node id="Jacelyn-Bywater">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.004373190968521593</data>
+<data key="degree">9</data>
+<data key="size">8.525837</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-437.5877</data>
+<data key="y">216.40268</data>
+</node>
+<node id="Timett">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.002524498315294805</data>
+<data key="degree">4</data>
+<data key="size">6.0714865</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-433.55844</data>
+<data key="y">306.9589</data>
+</node>
+<node id="Bryce-Caron">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.003909126052280805</data>
+<data key="degree">5</data>
+<data key="size">7.9097376</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-698.84644</data>
+<data key="y">505.80533</data>
+</node>
+<node id="Eldon-Estermont">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0027178060023331655</data>
+<data key="degree">2</data>
+<data key="size">6.328125</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-704.6122</data>
+<data key="y">766.265</data>
+</node>
+<node id="Guyard-Morrigen">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0017098767405136369</data>
+<data key="degree">2</data>
+<data key="size">4.989984</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-723.021</data>
+<data key="y">436.30753</data>
+</node>
+<node id="Brynden-Tully">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0019456544758629899</data>
+<data key="degree">3</data>
+<data key="size">5.3030057</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-848.5607</data>
+<data key="y">203.23895</data>
+</node>
+<node id="Captain-Myraham">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0012018176753997548</data>
+<data key="degree">1</data>
+<data key="size">4.315478</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1154.5211</data>
+<data key="y">252.20084</data>
+</node>
+<node id="Captain-Myraham-Daughter">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0012018176753997548</data>
+<data key="degree">1</data>
+<data key="size">4.315478</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1174.0908</data>
+<data key="y">275.52094</data>
+</node>
+<node id="Cleos-Frey">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0032365277072683696</data>
+<data key="degree">6</data>
+<data key="size">7.016787</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-728.64435</data>
+<data key="y">196.63014</data>
+</node>
+<node id="Colen-of-Greenpools">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.001514769092175686</data>
+<data key="degree">2</data>
+<data key="size">4.730956</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-815.8651</data>
+<data key="y">344.1813</data>
+</node>
+<node id="Desmond-Grell">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0022725801003754434</data>
+<data key="degree">3</data>
+<data key="size">5.7370367</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-906.3252</data>
+<data key="y">343.25952</data>
+</node>
+<node id="Hallis-Mollen">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0018592556142406464</data>
+<data key="degree">2</data>
+<data key="size">5.188301</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-875.9054</data>
+<data key="y">370.03314</data>
+</node>
+<node id="Hoster-Tully">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.002173301356813103</data>
+<data key="degree">3</data>
+<data key="size">5.605233</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-870.15424</data>
+<data key="y">341.85776</data>
+</node>
+<node id="Loras-Tyrell">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.004456275457712814</data>
+<data key="degree">8</data>
+<data key="size">8.636141</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-627.2011</data>
+<data key="y">288.55325</data>
+</node>
+<node id="Lysa-Arryn">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0018924153183629243</data>
+<data key="degree">3</data>
+<data key="size">5.2323246</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-671.69104</data>
+<data key="y">252.00127</data>
+</node>
+<node id="Margaery-Tyrell">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0027482052536216216</data>
+<data key="degree">5</data>
+<data key="size">6.3684835</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-650.3033</data>
+<data key="y">259.653</data>
+</node>
+<node id="Mathis-Rowan">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.003582357052978111</data>
+<data key="degree">5</data>
+<data key="size">7.475915</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-758.5642</data>
+<data key="y">436.1245</data>
+</node>
+<node id="Utherydes-Wayn">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.001692438258454464</data>
+<data key="degree">2</data>
+<data key="size">4.966832</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-923.8222</data>
+<data key="y">382.6873</data>
+</node>
+<node id="Wendel-Manderly">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0038149461549177094</data>
+<data key="degree">4</data>
+<data key="size">7.7847033</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-911.46826</data>
+<data key="y">412.0686</data>
+</node>
+<node id="Lancel-Lannister">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0035162534459210635</data>
+<data key="degree">7</data>
+<data key="size">7.3881545</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-498.8275</data>
+<data key="y">170.8578</data>
+</node>
+<node id="Osfryd-Kettleblack">
+<data key="modularity_class">3</data>
+<data key="pageranks">9.726966062963861E-4</data>
+<data key="degree">1</data>
+<data key="size">4.0112934</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-641.6272</data>
+<data key="y">228.52359</data>
+</node>
+<node id="Osney-Kettleblack">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0014172754576534758</data>
+<data key="degree">2</data>
+<data key="size">4.6015224</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-382.60788</data>
+<data key="y">96.88819</data>
+</node>
+<node id="Petyr-Baelish">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0058839374644430505</data>
+<data key="degree">12</data>
+<data key="size">10.531525</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-583.90826</data>
+<data key="y">281.99124</data>
+</node>
+<node id="Preston-Greenfield">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0014230072391079535</data>
+<data key="degree">2</data>
+<data key="size">4.609132</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-416.53006</data>
+<data key="y">272.9198</data>
+</node>
+<node id="Pycelle">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.004222724848113424</data>
+<data key="degree">8</data>
+<data key="size">8.326076</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-560.3348</data>
+<data key="y">308.23245</data>
+</node>
+<node id="Shae">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0034065511701560055</data>
+<data key="degree">6</data>
+<data key="size">7.242512</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-484.738</data>
+<data key="y">288.16034</data>
+</node>
+<node id="Vylarr">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0014230072391079535</data>
+<data key="degree">2</data>
+<data key="size">4.609132</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-445.62177</data>
+<data key="y">268.45767</data>
+</node>
+<node id="Chataya">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0010294612119621466</data>
+<data key="degree">1</data>
+<data key="size">4.086655</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-434.16583</data>
+<data key="y">283.70084</data>
+</node>
+<node id="Chella">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0019288811779453225</data>
+<data key="degree">3</data>
+<data key="size">5.2807374</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-428.49182</data>
+<data key="y">361.5203</data>
+</node>
+<node id="Chett">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0011487862821879793</data>
+<data key="degree">1</data>
+<data key="size">4.2450724</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-947.1929</data>
+<data key="y">-304.817</data>
+</node>
+<node id="Craster">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.005016112638397983</data>
+<data key="degree">7</data>
+<data key="size">9.379389</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1028.0438</data>
+<data key="y">-316.07428</data>
+</node>
+<node id="Dywen">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.002481475234484635</data>
+<data key="degree">3</data>
+<data key="size">6.014369</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1021.7254</data>
+<data key="y">-346.32846</data>
+</node>
+<node id="Eddison-Tollett">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.002370797376631334</data>
+<data key="degree">3</data>
+<data key="size">5.867431</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-961.96155</data>
+<data key="y">-290.18073</data>
+</node>
+<node id="Mance-Rayder">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0035916272735092977</data>
+<data key="degree">5</data>
+<data key="size">7.488222</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1076.8075</data>
+<data key="y">-375.66858</data>
+</node>
+<node id="Thoren-Smallwood">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0050300116244762424</data>
+<data key="degree">7</data>
+<data key="size">9.3978405</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1040.5172</data>
+<data key="y">-396.56024</data>
+</node>
+<node id="Cressen">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.005775977530954103</data>
+<data key="degree">9</data>
+<data key="size">10.388196</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-647.5374</data>
+<data key="y">467.13684</data>
+</node>
+<node id="Melisandre">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.003271602076821634</data>
+<data key="degree">5</data>
+<data key="size">7.063352</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-648.362</data>
+<data key="y">433.29962</data>
+</node>
+<node id="Patchface">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.001595289785543079</data>
+<data key="degree">2</data>
+<data key="size">4.837857</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-646.6325</data>
+<data key="y">497.69702</data>
+</node>
+<node id="Pylos">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.002942306973396778</data>
+<data key="degree">4</data>
+<data key="size">6.6261754</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-623.3256</data>
+<data key="y">487.12396</data>
+</node>
+<node id="Shireen-Baratheon">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0017498664165682765</data>
+<data key="degree">2</data>
+<data key="size">5.0430746</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-630.95715</data>
+<data key="y">547.8827</data>
+</node>
+<node id="Cutjack">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.004079484416175914</data>
+<data key="degree">3</data>
+<data key="size">8.135908</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-646.22</data>
+<data key="y">-586.0917</data>
+</node>
+<node id="Kurz">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0017363387768659965</data>
+<data key="degree">1</data>
+<data key="size">5.0251155</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-637.1902</data>
+<data key="y">-652.9091</data>
+</node>
+<node id="Tarber">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0017363387768659965</data>
+<data key="degree">1</data>
+<data key="size">5.0251155</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-634.355</data>
+<data key="y">-682.1699</data>
+</node>
+<node id="Doreah">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0013094719921633963</data>
+<data key="degree">1</data>
+<data key="size">4.458401</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-161.36266</data>
+<data key="y">-414.26636</data>
+</node>
+<node id="Drogo">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0034262038630863776</data>
+<data key="degree">4</data>
+<data key="size">7.268604</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-275.95364</data>
+<data key="y">-405.5432</data>
+</node>
+<node id="Irri">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0022775755106651304</data>
+<data key="degree">2</data>
+<data key="size">5.7436686</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-188.18993</data>
+<data key="y">-405.3484</data>
+</node>
+<node id="Jhiqui">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0022775755106651304</data>
+<data key="degree">2</data>
+<data key="size">5.7436686</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-209.17947</data>
+<data key="y">-413.15524</data>
+</node>
+<node id="Lynesse-Hightower">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0013094719921633963</data>
+<data key="degree">1</data>
+<data key="size">4.458401</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-166.88995</data>
+<data key="y">-437.119</data>
+</node>
+<node id="Mirri-Maz-Duur">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0013094719921633963</data>
+<data key="degree">1</data>
+<data key="size">4.458401</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-188.93236</data>
+<data key="y">-445.9033</data>
+</node>
+<node id="Pono">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0026513732612091765</data>
+<data key="degree">3</data>
+<data key="size">6.2399273</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-251.72873</data>
+<data key="y">-427.4424</data>
+</node>
+<node id="Pyat-Pree">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0022775755106651304</data>
+<data key="degree">2</data>
+<data key="size">5.7436686</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-235.38554</data>
+<data key="y">-391.62347</data>
+</node>
+<node id="Quaithe">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0013094719921633963</data>
+<data key="degree">1</data>
+<data key="size">4.458401</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-200.59271</data>
+<data key="y">-386.52765</data>
+</node>
+<node id="Viserys-Targaryen">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0026526139572035064</data>
+<data key="degree">3</data>
+<data key="size">6.2415752</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-326.11884</data>
+<data key="y">-361.5528</data>
+</node>
+<node id="Xaro-Xhoan-Daxos">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0022775755106651304</data>
+<data key="degree">2</data>
+<data key="size">5.7436686</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-249.317</data>
+<data key="y">-400.3727</data>
+</node>
+<node id="Dalbridge">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.002423637285068918</data>
+<data key="degree">3</data>
+<data key="size">5.9375825</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1101.6699</data>
+<data key="y">-318.60593</data>
+</node>
+<node id="Ebben">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.003128524318947951</data>
+<data key="degree">4</data>
+<data key="size">6.8734</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1075.8319</data>
+<data key="y">-291.14175</data>
+</node>
+<node id="Qhorin-Halfhand">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0057400558089113355</data>
+<data key="degree">8</data>
+<data key="size">10.340506</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1044.0227</data>
+<data key="y">-279.6245</data>
+</node>
+<node id="Devan-Seaworth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.002119338570661503</data>
+<data key="degree">3</data>
+<data key="size">5.5335913</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-663.88336</data>
+<data key="y">412.61508</data>
+</node>
+<node id="Imry-Florent">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0011824826276434827</data>
+<data key="degree">1</data>
+<data key="size">4.2898083</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-547.60345</data>
+<data key="y">586.2894</data>
+</node>
+<node id="Matthos-Seaworth">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0011824826276434827</data>
+<data key="degree">1</data>
+<data key="size">4.2898083</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-569.7491</data>
+<data key="y">594.7962</data>
+</node>
+<node id="Salladhor-Saan">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0016531281368913674</data>
+<data key="degree">2</data>
+<data key="size">4.914644</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-576.7776</data>
+<data key="y">460.71036</data>
+</node>
+<node id="Dolf">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0012292033753707283</data>
+<data key="degree">1</data>
+<data key="size">4.3518353</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-339.2227</data>
+<data key="y">433.6888</data>
+</node>
+<node id="Shagga">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0030592785930378583</data>
+<data key="degree">4</data>
+<data key="size">6.7814684</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-453.13248</data>
+<data key="y">330.91232</data>
+</node>
+<node id="Mors-Umber">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.001200291228219994</data>
+<data key="degree">1</data>
+<data key="size">4.3134513</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1324.9688</data>
+<data key="y">59.26813</data>
+</node>
+<node id="Dontos-Hollard">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.003283327161727967</data>
+<data key="degree">5</data>
+<data key="size">7.0789185</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-616.03406</data>
+<data key="y">228.05385</data>
+</node>
+<node id="Moon-Boy">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0011372790801147808</data>
+<data key="degree">1</data>
+<data key="size">4.2297955</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-552.6626</data>
+<data key="y">349.72495</data>
+</node>
+<node id="Doran-Martell">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.001943132131501098</data>
+<data key="degree">3</data>
+<data key="size">5.299657</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-375.96725</data>
+<data key="y">267.19174</data>
+</node>
+<node id="Drennan">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0019956276642326925</data>
+<data key="degree">2</data>
+<data key="size">5.369351</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1235.9114</data>
+<data key="y">303.9893</data>
+</node>
+<node id="Squint">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0028013580461628265</data>
+<data key="degree">3</data>
+<data key="size">6.4390497</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1258.7648</data>
+<data key="y">289.24753</data>
+</node>
+<node id="Grenn">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.002553144249835859</data>
+<data key="degree">3</data>
+<data key="size">6.1095176</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1018.67584</data>
+<data key="y">-371.98938</data>
+</node>
+<node id="Stonesnake">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0032138023219114254</data>
+<data key="degree">4</data>
+<data key="size">6.986616</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1062.1067</data>
+<data key="y">-306.69724</data>
+</node>
+<node id="Maron-Greyjoy">
+<data key="modularity_class">1</data>
+<data key="pageranks">0.0010149242140564804</data>
+<data key="degree">1</data>
+<data key="size">4.067355</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-823.51117</data>
+<data key="y">53.07993</data>
+</node>
+<node id="Steffon-Varner">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0017343638649615352</data>
+<data key="degree">1</data>
+<data key="size">5.0224934</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-705.33997</data>
+<data key="y">862.9634</data>
+</node>
+<node id="Euron-Greyjoy">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0012018176753997548</data>
+<data key="degree">1</data>
+<data key="size">4.315478</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1174.3424</data>
+<data key="y">221.6252</data>
+</node>
+<node id="Farlen">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0012018176753997548</data>
+<data key="degree">1</data>
+<data key="size">4.315478</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1121.8701</data>
+<data key="y">242.60748</data>
+</node>
+<node id="Florian-the-Fool">
+<data key="modularity_class">6</data>
+<data key="pageranks">0.00233164244124283</data>
+<data key="degree">2</data>
+<data key="size">5.8154488</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">-261.27948</data>
+<data key="y">9.868701</data>
+</node>
+<node id="Jonquil">
+<data key="modularity_class">6</data>
+<data key="pageranks">0.001570078156781912</data>
+<data key="degree">1</data>
+<data key="size">4.804385</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">-210.16695</data>
+<data key="y">-1.1026696</data>
+</node>
+<node id="Murch">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.002000745724957894</data>
+<data key="degree">1</data>
+<data key="size">5.3761454</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1689.6793</data>
+<data key="y">221.00969</data>
+</node>
+<node id="Garlan-Tyrell">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0014511835883619932</data>
+<data key="degree">2</data>
+<data key="size">4.646539</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-482.54785</data>
+<data key="y">332.89352</data>
+</node>
+<node id="Lollys-Stokeworth">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0014815492570408742</data>
+<data key="degree">2</data>
+<data key="size">4.6868534</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-303.567</data>
+<data key="y">184.77748</data>
+</node>
+<node id="Hake">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0011487862821879793</data>
+<data key="degree">1</data>
+<data key="size">4.2450724</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1078.2616</data>
+<data key="y">-248.75734</data>
+</node>
+<node id="Hallyne">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.001428042454447671</data>
+<data key="degree">2</data>
+<data key="size">4.615817</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-405.65726</data>
+<data key="y">226.44867</data>
+</node>
+<node id="Halys-Hornwood">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.001115967197898121</data>
+<data key="degree">1</data>
+<data key="size">4.2015014</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1249.7821</data>
+<data key="y">72.63004</data>
+</node>
+<node id="High-Septon-(fat_one)">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0010294612119621466</data>
+<data key="degree">1</data>
+<data key="size">4.086655</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-393.84332</data>
+<data key="y">309.55392</data>
+</node>
+<node id="High-Septon-(Tyrions)">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0010294612119621466</data>
+<data key="degree">1</data>
+<data key="size">4.086655</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-404.1182</data>
+<data key="y">329.08374</data>
+</node>
+<node id="Hobber-Redwyne">
+<data key="modularity_class">7</data>
+<data key="pageranks">0.0015571373989140443</data>
+<data key="degree">1</data>
+<data key="size">4.787205</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-141.38007</data>
+<data key="y">147.42139</data>
+</node>
+<node id="Horas-Redwyne">
+<data key="modularity_class">7</data>
+<data key="pageranks">0.0023012328624124395</data>
+<data key="degree">2</data>
+<data key="size">5.7750764</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-198.21661</data>
+<data key="y">143.90474</data>
+</node>
+<node id="Mebble">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0011127964551119454</data>
+<data key="degree">1</data>
+<data key="size">4.197292</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-645.555</data>
+<data key="y">-297.5564</data>
+</node>
+<node id="Tysha">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.0019397267332649537</data>
+<data key="degree">3</data>
+<data key="size">5.295136</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-493.1624</data>
+<data key="y">360.90256</data>
+</node>
+<node id="Jaremy-Rykker">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0018028371302514952</data>
+<data key="degree">2</data>
+<data key="size">5.1133995</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1052.5974</data>
+<data key="y">-455.4074</data>
+</node>
+<node id="Jarman-Buckwell">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0023724728332888954</data>
+<data key="degree">3</data>
+<data key="size">5.8696556</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1010.14435</data>
+<data key="y">-399.7756</data>
+</node>
+<node id="Jason-Mallister">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0012018176753997548</data>
+<data key="degree">1</data>
+<data key="size">4.315478</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1170.4716</data>
+<data key="y">241.59105</data>
+</node>
+<node id="Ottyn-Wythers">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0024196265858060736</data>
+<data key="degree">3</data>
+<data key="size">5.9322577</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1089.5338</data>
+<data key="y">-347.45966</data>
+</node>
+<node id="Mace-Tyrell">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.003941998785579256</data>
+<data key="degree">6</data>
+<data key="size">7.95338</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-555.17883</data>
+<data key="y">407.42722</data>
+</node>
+<node id="Jon-Fossoway">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0011881288346082684</data>
+<data key="degree">1</data>
+<data key="size">4.297304</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-805.02563</data>
+<data key="y">573.86584</data>
+</node>
+<node id="Lark">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0011487862821879793</data>
+<data key="degree">1</data>
+<data key="size">4.2450724</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-988.2658</data>
+<data key="y">-362.97522</data>
+</node>
+<node id="Rattleshirt">
+<data key="modularity_class">0</data>
+<data key="pageranks">0.0025489150924505005</data>
+<data key="degree">3</data>
+<data key="size">6.103903</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">-1095.4662</data>
+<data key="y">-266.47995</data>
+</node>
+<node id="Jon-Umber-(Greatjon)">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0010597815619918056</data>
+<data key="degree">1</data>
+<data key="size">4.126909</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-899.12537</data>
+<data key="y">142.18776</data>
+</node>
+<node id="Kyra">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0012018176753997548</data>
+<data key="degree">1</data>
+<data key="size">4.315478</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1141.6193</data>
+<data key="y">265.9484</data>
+</node>
+<node id="Lorent-Caswell">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0010453610129207151</data>
+<data key="degree">1</data>
+<data key="size">4.107764</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-782.7131</data>
+<data key="y">467.22043</data>
+</node>
+<node id="Lorren">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0035355073038254563</data>
+<data key="degree">4</data>
+<data key="size">7.4137163</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1213.4197</data>
+<data key="y">240.52722</data>
+</node>
+<node id="Urzen">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0019531568522170007</data>
+<data key="degree">2</data>
+<data key="size">5.312966</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1228.0437</data>
+<data key="y">268.54657</data>
+</node>
+<node id="Paxter-Redwyne">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0011375712266643002</data>
+<data key="degree">1</data>
+<data key="size">4.230183</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-476.37415</data>
+<data key="y">541.2158</data>
+</node>
+<node id="Martyn-Rivers">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0010597815619918056</data>
+<data key="degree">1</data>
+<data key="size">4.126909</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-935.31696</data>
+<data key="y">185.3752</data>
+</node>
+<node id="Robert-Arryn">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.001075959282850844</data>
+<data key="degree">1</data>
+<data key="size">4.1483865</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-301.7399</data>
+<data key="y">115.8462</data>
+</node>
+<node id="Trystane-Martell">
+<data key="modularity_class">3</data>
+<data key="pageranks">0.001075959282850844</data>
+<data key="degree">1</data>
+<data key="size">4.1483865</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-296.24817</data>
+<data key="y">136.25906</data>
+</node>
+<node id="Olyvar-Frey">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0010597815619918056</data>
+<data key="degree">1</data>
+<data key="size">4.126909</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-921.53394</data>
+<data key="y">157.53123</data>
+</node>
+<node id="Palla">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0018106928502585077</data>
+<data key="degree">2</data>
+<data key="size">5.123829</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1217.552</data>
+<data key="y">158.42131</data>
+</node>
+<node id="Perwyn-Frey">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.001870478517826902</data>
+<data key="degree">2</data>
+<data key="size">5.2032013</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-954.7739</data>
+<data key="y">348.48373</data>
+</node>
+<node id="Qyburn">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.001109308846150498</data>
+<data key="degree">1</data>
+<data key="size">4.192662</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-910.75323</data>
+<data key="y">-87.56388</data>
+</node>
+<node id="Steffon-Baratheon">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0015160065221685995</data>
+<data key="degree">2</data>
+<data key="size">4.7325993</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-703.62805</data>
+<data key="y">449.9885</data>
+</node>
+<node id="Rickard-Karstark">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0010597815619918056</data>
+<data key="degree">1</data>
+<data key="size">4.126909</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-933.7456</data>
+<data key="y">215.50053</data>
+</node>
+<node id="Walder-Frey">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0015899398289917245</data>
+<data key="degree">2</data>
+<data key="size">4.8307543</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-879.7195</data>
+<data key="y">55.865303</data>
+</node>
+<node id="Robett-Glover">
+<data key="modularity_class">4</data>
+<data key="pageranks">0.0016312760050680285</data>
+<data key="degree">2</data>
+<data key="size">4.8856325</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-810.1282</data>
+<data key="y">-243.02625</data>
+</node>
+<node id="Shadd">
+<data key="modularity_class">2</data>
+<data key="pageranks">0.0013898475349856756</data>
+<data key="degree">1</data>
+<data key="size">4.565109</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-982.094</data>
+<data key="y">521.4554</data>
+</node>
+<node id="Werlag">
+<data key="modularity_class">5</data>
+<data key="pageranks">0.0020249666694470893</data>
+<data key="degree">2</data>
+<data key="size">5.408302</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-1272.1594</data>
+<data key="y">253.27193</data>
+</node>
+<edge id="0" source="Aegon-I-Targaryen" target="Harren-Hoare">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="1" source="Aegon-I-Targaryen" target="Nan">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="2" source="Aegon-I-Targaryen" target="Rhaenys-Targaryen">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="3" source="Aegon-I-Targaryen" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="4" source="Aegon-I-Targaryen" target="Visenya-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="5" source="Aegon-V-Targaryen" target="Aemon-Targaryen-(Maester-Aemon)">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="6" source="Aemon-Targaryen-(Maester-Aemon)" target="Daeron-II-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="7" source="Aemon-Targaryen-(Maester-Aemon)" target="Jeor-Mormont">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="8" source="Aemon-Targaryen-(Maester-Aemon)" target="Jon-Snow">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="9" source="Aemon-Targaryen-(Maester-Aemon)" target="Maekar-I-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="10" source="Aemon-Targaryen-(Maester-Aemon)" target="Samwell-Tarly">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="11" source="Aenys-Frey" target="Arya-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="12" source="Aeron-Greyjoy" target="Dagmer">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="13" source="Aeron-Greyjoy" target="Theon-Greyjoy">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="14" source="Aerys-I-Targaryen" target="Robert-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="15" source="Aerys-II-Targaryen" target="Eddard-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="16" source="Aerys-II-Targaryen" target="Jaime-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="17" source="Aerys-II-Targaryen" target="Rhaegar-Targaryen">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="18" source="Aerys-II-Targaryen" target="Robert-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="19" source="Aerys-II-Targaryen" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="20" source="Aggar" target="Gariss">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="21" source="Aggar" target="Gelmarr">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="22" source="Aggar" target="Gynir">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="23" source="Aggar" target="Ramsay-Snow">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="24" source="Aggo" target="Belwas">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="25" source="Aggo" target="Daenerys-Targaryen">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="26" source="Aggo" target="Jhogo">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="27" source="Aggo" target="Jorah-Mormont">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="28" source="Aggo" target="Rakharo">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="29" source="Alayaya" target="Dancy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="30" source="Alayaya" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="31" source="Alebelly" target="Bran-Stark">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="32" source="Alebelly" target="Hayhead">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="33" source="Alebelly" target="Jojen-Reed">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="34" source="Alebelly" target="Mikken">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="35" source="Alester-Florent" target="Cortnay-Penrose">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="36" source="Alester-Florent" target="Davos-Seaworth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="37" source="Alester-Florent" target="Renly-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="38" source="Alester-Florent" target="Stannis-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="39" source="Allar-Deem" target="Janos-Slynt">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="40" source="Allar-Deem" target="Tyrion-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="41" source="Allard-Seaworth" target="Davos-Seaworth">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="42" source="Allard-Seaworth" target="Marya-Seaworth">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="43" source="Allard-Seaworth" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="44" source="Alliser-Thorne" target="Jeor-Mormont">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="45" source="Alliser-Thorne" target="Joffrey-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="46" source="Alliser-Thorne" target="Jon-Snow">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="47" source="Alliser-Thorne" target="Tyrion-Lannister">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="48" source="Amabel" target="Arya-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="49" source="Amabel" target="Harra">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="50" source="Amory-Lorch" target="Arya-Stark">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="51" source="Amory-Lorch" target="Cersei-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="52" source="Amory-Lorch" target="Chiswyck">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="53" source="Amory-Lorch" target="Dunsen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="54" source="Amory-Lorch" target="Gendry">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="55" source="Amory-Lorch" target="Gregor-Clegane">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="56" source="Amory-Lorch" target="Hot-Pie">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="57" source="Amory-Lorch" target="Ilyn-Payne">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="58" source="Amory-Lorch" target="Joffrey-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="59" source="Amory-Lorch" target="Meryn-Trant">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="60" source="Amory-Lorch" target="Polliver">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="61" source="Amory-Lorch" target="Rafford">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="62" source="Amory-Lorch" target="Roose-Bolton">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="63" source="Amory-Lorch" target="Sandor-Clegane">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="64" source="Amory-Lorch" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="65" source="Amory-Lorch" target="Tywin-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="66" source="Amory-Lorch" target="Vargo-Hoat">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="67" source="Amory-Lorch" target="Yoren">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="68" source="Ardrian-Celtigar" target="Monford-Velaryon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="69" source="Aron-Santagar" target="Sandor-Clegane">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="70" source="Arwyn-Oakheart" target="Randyll-Tarly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="71" source="Arya-Stark" target="Beric-Dondarrion">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="72" source="Arya-Stark" target="Biter">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="73" source="Arya-Stark" target="Bran-Stark">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="74" source="Arya-Stark" target="Cersei-Lannister">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="75" source="Arya-Stark" target="Chiswyck">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="76" source="Arya-Stark" target="Dobber">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="77" source="Arya-Stark" target="Dunsen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="78" source="Arya-Stark" target="Eddard-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="79" source="Arya-Stark" target="Gendry">
+<data key="weight">36.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="80" source="Arya-Stark" target="Gregor-Clegane">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="81" source="Arya-Stark" target="Harra">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="82" source="Arya-Stark" target="Harren-Hoare">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="83" source="Arya-Stark" target="Hot-Pie">
+<data key="weight">51.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="84" source="Arya-Stark" target="Jaime-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="85" source="Arya-Stark" target="Jaqen-Hghar">
+<data key="weight">25.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="86" source="Arya-Stark" target="Joffrey-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="87" source="Arya-Stark" target="Jon-Snow">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="88" source="Arya-Stark" target="Koss">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="89" source="Arya-Stark" target="Lommy-Greenhands">
+<data key="weight">31.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="90" source="Arya-Stark" target="Nan">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="91" source="Arya-Stark" target="Polliver">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="92" source="Arya-Stark" target="Praed">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="93" source="Arya-Stark" target="Rafford">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="94" source="Arya-Stark" target="Rickon-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="95" source="Arya-Stark" target="Robb-Stark">
+<data key="weight">15.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="96" source="Arya-Stark" target="Robert-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="97" source="Arya-Stark" target="Roose-Bolton">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="98" source="Arya-Stark" target="Rorge">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="99" source="Arya-Stark" target="Sansa-Stark">
+<data key="weight">20.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="100" source="Arya-Stark" target="Syrio-Forel">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="101" source="Arya-Stark" target="Tyrion-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="102" source="Arya-Stark" target="Tywin-Lannister">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="103" source="Arya-Stark" target="Vargo-Hoat">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="104" source="Arya-Stark" target="Weasel">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="105" source="Arya-Stark" target="Weese">
+<data key="weight">15.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="106" source="Arya-Stark" target="Woth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="107" source="Arya-Stark" target="Yoren">
+<data key="weight">28.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="108" source="Arys-Oakheart" target="Joffrey-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="109" source="Arys-Oakheart" target="Myrcella-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="110" source="Arys-Oakheart" target="Sansa-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="111" source="Asha-Greyjoy" target="Balon-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="112" source="Asha-Greyjoy" target="Dagmer">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="113" source="Asha-Greyjoy" target="Theon-Greyjoy">
+<data key="weight">35.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="114" source="Asha-Greyjoy" target="Wex-Pyke">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="115" source="Axell-Florent" target="Selyse-Florent">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="116" source="Axell-Florent" target="Stannis-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="117" source="Bael-the-Bard" target="Ygritte">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="118" source="Ballabar" target="Podrick-Payne">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="119" source="Ballabar" target="Tyrion-Lannister">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="120" source="Balon-Greyjoy" target="Catelyn-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="121" source="Balon-Greyjoy" target="Dagmer">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="122" source="Balon-Greyjoy" target="Eddard-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="123" source="Balon-Greyjoy" target="Robb-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="124" source="Balon-Greyjoy" target="Robert-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="125" source="Balon-Greyjoy" target="Theon-Greyjoy">
+<data key="weight">27.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="126" source="Balon-Greyjoy" target="Victarion-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="127" source="Balon-Swann" target="Joffrey-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="128" source="Balon-Swann" target="Mandon-Moore">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="129" source="Balon-Swann" target="Meryn-Trant">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="130" source="Balon-Swann" target="Osmund-Kettleblack">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="131" source="Balon-Swann" target="Tyrion-Lannister">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="132" source="Barristan-Selmy" target="Belwas">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="133" source="Barristan-Selmy" target="Cersei-Lannister">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="134" source="Barristan-Selmy" target="Daenerys-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="135" source="Barristan-Selmy" target="Joffrey-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="136" source="Barristan-Selmy" target="Robert-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="137" source="Barristan-Selmy" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="138" source="Belwas" target="Daenerys-Targaryen">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="139" source="Belwas" target="Jhogo">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="140" source="Belwas" target="Jorah-Mormont">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="141" source="Benfred-Tallhart" target="Helman-Tallhart">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="142" source="Benfred-Tallhart" target="Leobald-Tallhart">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="143" source="Benfred-Tallhart" target="Stygg">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="144" source="Benfred-Tallhart" target="Theon-Greyjoy">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="145" source="Benjen-Stark" target="Jeor-Mormont">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="146" source="Beric-Dondarrion" target="Thoros-of-Myr">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="147" source="Beth-Cassel" target="Bran-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="148" source="Beth-Cassel" target="Rodrik-Cassel">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="149" source="Beth-Cassel" target="Theon-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="150" source="Biter" target="Jaqen-Hghar">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="151" source="Biter" target="Rorge">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="152" source="Biter" target="Yoren">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="153" source="Boros-Blount" target="Cersei-Lannister">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="154" source="Boros-Blount" target="Gyles-Rosby">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="155" source="Boros-Blount" target="Joffrey-Baratheon">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="156" source="Boros-Blount" target="Meryn-Trant">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="157" source="Boros-Blount" target="Sansa-Stark">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="158" source="Boros-Blount" target="Tanda-Stokeworth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="159" source="Boros-Blount" target="Tommen-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="160" source="Boros-Blount" target="Tyrion-Lannister">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="161" source="Bran-Stark" target="Catelyn-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="162" source="Bran-Stark" target="Chayle">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="163" source="Bran-Stark" target="Cley-Cerwyn">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="164" source="Bran-Stark" target="Donella-Hornwood">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="165" source="Bran-Stark" target="Eddard-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="166" source="Bran-Stark" target="Hayhead">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="167" source="Bran-Stark" target="Hodor">
+<data key="weight">59.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="168" source="Bran-Stark" target="Howland-Reed">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="169" source="Bran-Stark" target="Jojen-Reed">
+<data key="weight">47.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="170" source="Bran-Stark" target="Jon-Snow">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="171" source="Bran-Stark" target="Luwin">
+<data key="weight">51.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="172" source="Bran-Stark" target="Meera-Reed">
+<data key="weight">36.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="173" source="Bran-Stark" target="Mikken">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="174" source="Bran-Stark" target="Nan">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="175" source="Bran-Stark" target="Osha">
+<data key="weight">30.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="176" source="Bran-Stark" target="Poxy-Tym">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="177" source="Bran-Stark" target="Ramsay-Snow">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="178" source="Bran-Stark" target="Reek">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="179" source="Bran-Stark" target="Rickon-Stark">
+<data key="weight">54.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="180" source="Bran-Stark" target="Robb-Stark">
+<data key="weight">28.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="181" source="Bran-Stark" target="Rodrik-Cassel">
+<data key="weight">34.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="182" source="Bran-Stark" target="Sansa-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="183" source="Bran-Stark" target="Stafford-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="184" source="Bran-Stark" target="Theon-Greyjoy">
+<data key="weight">24.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="185" source="Bran-Stark" target="Walder-Frey-(son-of-Jammos)">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="186" source="Bran-Stark" target="Walder-Frey-(son-of-Merrett)">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="187" source="Bran-Stark" target="Wyman-Manderly">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="188" source="Brienne-of-Tarth" target="Catelyn-Stark">
+<data key="weight">36.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="189" source="Brienne-of-Tarth" target="Edmure-Tully">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="190" source="Brienne-of-Tarth" target="Emmon-Cuy">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="191" source="Brienne-of-Tarth" target="Jaime-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="192" source="Brienne-of-Tarth" target="Renly-Baratheon">
+<data key="weight">28.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="193" source="Brienne-of-Tarth" target="Robar-Royce">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="194" source="Brienne-of-Tarth" target="Robert-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="195" source="Brienne-of-Tarth" target="Selwyn-Tarth">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="196" source="Brienne-of-Tarth" target="Stannis-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="197" source="Brienne-of-Tarth" target="Vyman">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="198" source="Bronn" target="Cersei-Lannister">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="199" source="Bronn" target="Jacelyn-Bywater">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="200" source="Bronn" target="Joffrey-Baratheon">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="201" source="Bronn" target="Mandon-Moore">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="202" source="Bronn" target="Podrick-Payne">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="203" source="Bronn" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="204" source="Bronn" target="Timett">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="205" source="Bronn" target="Tommen-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="206" source="Bronn" target="Tyrion-Lannister">
+<data key="weight">40.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="207" source="Bronn" target="Varys">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="208" source="Bryce-Caron" target="Cortnay-Penrose">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="209" source="Bryce-Caron" target="Eldon-Estermont">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="210" source="Bryce-Caron" target="Guyard-Morrigen">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="211" source="Bryce-Caron" target="Renly-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="212" source="Bryce-Caron" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="213" source="Brynden-Tully" target="Catelyn-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="214" source="Brynden-Tully" target="Robb-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="215" source="Brynden-Tully" target="Tywin-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="216" source="Captain-Myraham" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="217" source="Captain-Myraham-Daughter" target="Theon-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="218" source="Catelyn-Stark" target="Cersei-Lannister">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="219" source="Catelyn-Stark" target="Cleos-Frey">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="220" source="Catelyn-Stark" target="Colen-of-Greenpools">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="221" source="Catelyn-Stark" target="Desmond-Grell">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="222" source="Catelyn-Stark" target="Eddard-Stark">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="223" source="Catelyn-Stark" target="Edmure-Tully">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="224" source="Catelyn-Stark" target="Hallis-Mollen">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="225" source="Catelyn-Stark" target="Hoster-Tully">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="226" source="Catelyn-Stark" target="Jaime-Lannister">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="227" source="Catelyn-Stark" target="Joffrey-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="228" source="Catelyn-Stark" target="Loras-Tyrell">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="229" source="Catelyn-Stark" target="Lysa-Arryn">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="230" source="Catelyn-Stark" target="Margaery-Tyrell">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="231" source="Catelyn-Stark" target="Mathis-Rowan">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="232" source="Catelyn-Stark" target="Randyll-Tarly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="233" source="Catelyn-Stark" target="Renly-Baratheon">
+<data key="weight">51.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="234" source="Catelyn-Stark" target="Rickon-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="235" source="Catelyn-Stark" target="Robar-Royce">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="236" source="Catelyn-Stark" target="Robb-Stark">
+<data key="weight">27.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="237" source="Catelyn-Stark" target="Robert-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="238" source="Catelyn-Stark" target="Sansa-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="239" source="Catelyn-Stark" target="Stafford-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="240" source="Catelyn-Stark" target="Stannis-Baratheon">
+<data key="weight">20.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="241" source="Catelyn-Stark" target="Theon-Greyjoy">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="242" source="Catelyn-Stark" target="Tyrion-Lannister">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="243" source="Catelyn-Stark" target="Tywin-Lannister">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="244" source="Catelyn-Stark" target="Utherydes-Wayn">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="245" source="Catelyn-Stark" target="Vyman">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="246" source="Catelyn-Stark" target="Wendel-Manderly">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="247" source="Cersei-Lannister" target="Chiswyck">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="248" source="Cersei-Lannister" target="Cleos-Frey">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="249" source="Cersei-Lannister" target="Dunsen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="250" source="Cersei-Lannister" target="Eddard-Stark">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="251" source="Cersei-Lannister" target="Gregor-Clegane">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="252" source="Cersei-Lannister" target="Gyles-Rosby">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="253" source="Cersei-Lannister" target="Ilyn-Payne">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="254" source="Cersei-Lannister" target="Jacelyn-Bywater">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="255" source="Cersei-Lannister" target="Jaime-Lannister">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="256" source="Cersei-Lannister" target="Janos-Slynt">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="257" source="Cersei-Lannister" target="Joffrey-Baratheon">
+<data key="weight">63.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="258" source="Cersei-Lannister" target="Lancel-Lannister">
+<data key="weight">20.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="259" source="Cersei-Lannister" target="Lysa-Arryn">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="260" source="Cersei-Lannister" target="Meryn-Trant">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="261" source="Cersei-Lannister" target="Myrcella-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="262" source="Cersei-Lannister" target="Osfryd-Kettleblack">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="263" source="Cersei-Lannister" target="Osmund-Kettleblack">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="264" source="Cersei-Lannister" target="Osney-Kettleblack">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="265" source="Cersei-Lannister" target="Petyr-Baelish">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="266" source="Cersei-Lannister" target="Polliver">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="267" source="Cersei-Lannister" target="Preston-Greenfield">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="268" source="Cersei-Lannister" target="Pycelle">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="269" source="Cersei-Lannister" target="Rafford">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="270" source="Cersei-Lannister" target="Renly-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="271" source="Cersei-Lannister" target="Robb-Stark">
+<data key="weight">15.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="272" source="Cersei-Lannister" target="Robert-Baratheon">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="273" source="Cersei-Lannister" target="Sandor-Clegane">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="274" source="Cersei-Lannister" target="Sansa-Stark">
+<data key="weight">39.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="275" source="Cersei-Lannister" target="Shae">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="276" source="Cersei-Lannister" target="Stannis-Baratheon">
+<data key="weight">23.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="277" source="Cersei-Lannister" target="Tanda-Stokeworth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="278" source="Cersei-Lannister" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="279" source="Cersei-Lannister" target="Tommen-Baratheon">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="280" source="Cersei-Lannister" target="Tyrion-Lannister">
+<data key="weight">87.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="281" source="Cersei-Lannister" target="Tywin-Lannister">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="282" source="Cersei-Lannister" target="Varys">
+<data key="weight">23.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="283" source="Cersei-Lannister" target="Vylarr">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="284" source="Chataya" target="Tyrion-Lannister">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="285" source="Chayle" target="Mikken">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="286" source="Chella" target="Shae">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="287" source="Chella" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="288" source="Chella" target="Varys">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="289" source="Chett" target="Jon-Snow">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="290" source="Chiswyck" target="Dunsen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="291" source="Chiswyck" target="Gregor-Clegane">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="292" source="Chiswyck" target="Ilyn-Payne">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="293" source="Chiswyck" target="Joffrey-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="294" source="Chiswyck" target="Meryn-Trant">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="295" source="Chiswyck" target="Polliver">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="296" source="Chiswyck" target="Rafford">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="297" source="Chiswyck" target="Sandor-Clegane">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="298" source="Chiswyck" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="299" source="Chiswyck" target="Weese">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="300" source="Cleos-Frey" target="Eddard-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="301" source="Cleos-Frey" target="Jaime-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="302" source="Cleos-Frey" target="Robb-Stark">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="303" source="Cleos-Frey" target="Tyrion-Lannister">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="304" source="Cley-Cerwyn" target="Donella-Hornwood">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="305" source="Cley-Cerwyn" target="Rodrik-Cassel">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="306" source="Colen-of-Greenpools" target="Renly-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="307" source="Cortnay-Penrose" target="Davos-Seaworth">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="308" source="Cortnay-Penrose" target="Renly-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="309" source="Cortnay-Penrose" target="Stannis-Baratheon">
+<data key="weight">18.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="310" source="Cortnay-Penrose" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="311" source="Cortnay-Penrose" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="312" source="Craster" target="Dywen">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="313" source="Craster" target="Eddison-Tollett">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="314" source="Craster" target="Jeor-Mormont">
+<data key="weight">19.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="315" source="Craster" target="Jon-Snow">
+<data key="weight">26.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="316" source="Craster" target="Mance-Rayder">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="317" source="Craster" target="Samwell-Tarly">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="318" source="Craster" target="Thoren-Smallwood">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="319" source="Cressen" target="Davos-Seaworth">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="320" source="Cressen" target="Melisandre">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="321" source="Cressen" target="Patchface">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="322" source="Cressen" target="Pylos">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="323" source="Cressen" target="Renly-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="324" source="Cressen" target="Robert-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="325" source="Cressen" target="Selyse-Florent">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="326" source="Cressen" target="Shireen-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="327" source="Cressen" target="Stannis-Baratheon">
+<data key="weight">21.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="328" source="Cutjack" target="Gendry">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="329" source="Cutjack" target="Kurz">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="330" source="Cutjack" target="Tarber">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="331" source="Daenerys-Targaryen" target="Doreah">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="332" source="Daenerys-Targaryen" target="Drogo">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="333" source="Daenerys-Targaryen" target="Irri">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="334" source="Daenerys-Targaryen" target="Jhiqui">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="335" source="Daenerys-Targaryen" target="Jhogo">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="336" source="Daenerys-Targaryen" target="Jorah-Mormont">
+<data key="weight">29.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="337" source="Daenerys-Targaryen" target="Lynesse-Hightower">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="338" source="Daenerys-Targaryen" target="Mirri-Maz-Duur">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="339" source="Daenerys-Targaryen" target="Pono">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="340" source="Daenerys-Targaryen" target="Pyat-Pree">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="341" source="Daenerys-Targaryen" target="Quaithe">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="342" source="Daenerys-Targaryen" target="Rakharo">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="343" source="Daenerys-Targaryen" target="Robert-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="344" source="Daenerys-Targaryen" target="Viserys-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="345" source="Daenerys-Targaryen" target="Xaro-Xhoan-Daxos">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="346" source="Dagmer" target="Rodrik-Cassel">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="347" source="Dagmer" target="Theon-Greyjoy">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="348" source="Dalbridge" target="Ebben">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="349" source="Dalbridge" target="Jon-Snow">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="350" source="Dalbridge" target="Qhorin-Halfhand">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="351" source="Davos-Seaworth" target="Devan-Seaworth">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="352" source="Davos-Seaworth" target="Imry-Florent">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="353" source="Davos-Seaworth" target="Matthos-Seaworth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="354" source="Davos-Seaworth" target="Melisandre">
+<data key="weight">20.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="355" source="Davos-Seaworth" target="Monford-Velaryon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="356" source="Davos-Seaworth" target="Pylos">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="357" source="Davos-Seaworth" target="Renly-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="358" source="Davos-Seaworth" target="Salladhor-Saan">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="359" source="Davos-Seaworth" target="Stannis-Baratheon">
+<data key="weight">58.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="360" source="Desmond-Grell" target="Edmure-Tully">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="361" source="Desmond-Grell" target="Utherydes-Wayn">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="362" source="Devan-Seaworth" target="Renly-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="363" source="Devan-Seaworth" target="Stannis-Baratheon">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="364" source="Dolf" target="Shagga">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="365" source="Donella-Hornwood" target="Leobald-Tallhart">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="366" source="Donella-Hornwood" target="Luwin">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="367" source="Donella-Hornwood" target="Mors-Umber">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="368" source="Donella-Hornwood" target="Ramsay-Snow">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="369" source="Donella-Hornwood" target="Rodrik-Cassel">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="370" source="Dontos-Hollard" target="Joffrey-Baratheon">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="371" source="Dontos-Hollard" target="Moon-Boy">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="372" source="Dontos-Hollard" target="Sansa-Stark">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="373" source="Dontos-Hollard" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="374" source="Dontos-Hollard" target="Tyrion-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="375" source="Doran-Martell" target="Myrcella-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="376" source="Doran-Martell" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="377" source="Doran-Martell" target="Varys">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="378" source="Drennan" target="Squint">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="379" source="Drennan" target="Theon-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="380" source="Drogo" target="Jorah-Mormont">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="381" source="Drogo" target="Pono">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="382" source="Drogo" target="Viserys-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="383" source="Dunsen" target="Gregor-Clegane">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="384" source="Dunsen" target="Ilyn-Payne">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="385" source="Dunsen" target="Joffrey-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="386" source="Dunsen" target="Meryn-Trant">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="387" source="Dunsen" target="Polliver">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="388" source="Dunsen" target="Rafford">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="389" source="Dunsen" target="Sandor-Clegane">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="390" source="Dunsen" target="Tickler">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="391" source="Dunsen" target="Weese">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="392" source="Dywen" target="Grenn">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="393" source="Dywen" target="Jon-Snow">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="394" source="Ebben" target="Jon-Snow">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="395" source="Ebben" target="Qhorin-Halfhand">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="396" source="Ebben" target="Stonesnake">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="397" source="Eddard-Stark" target="Ilyn-Payne">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="398" source="Eddard-Stark" target="Janos-Slynt">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="399" source="Eddard-Stark" target="Joffrey-Baratheon">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="400" source="Eddard-Stark" target="Jon-Snow">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="401" source="Eddard-Stark" target="Luwin">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="402" source="Eddard-Stark" target="Maron-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="403" source="Eddard-Stark" target="Petyr-Baelish">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="404" source="Eddard-Stark" target="Renly-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="405" source="Eddard-Stark" target="Rickon-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="406" source="Eddard-Stark" target="Robb-Stark">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="407" source="Eddard-Stark" target="Robert-Baratheon">
+<data key="weight">26.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="408" source="Eddard-Stark" target="Stannis-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="409" source="Eddard-Stark" target="Theon-Greyjoy">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="410" source="Eddard-Stark" target="Tyrion-Lannister">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="411" source="Eddard-Stark" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="412" source="Eddison-Tollett" target="Jeor-Mormont">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="413" source="Eddison-Tollett" target="Jon-Snow">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="414" source="Edmure-Tully" target="Hoster-Tully">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="415" source="Edmure-Tully" target="Jaime-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="416" source="Edmure-Tully" target="Robb-Stark">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="417" source="Edmure-Tully" target="Tywin-Lannister">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="418" source="Eldon-Estermont" target="Steffon-Varner">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="419" source="Emmon-Cuy" target="Renly-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="420" source="Emmon-Cuy" target="Robar-Royce">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="421" source="Euron-Greyjoy" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="422" source="Farlen" target="Theon-Greyjoy">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="423" source="Florian-the-Fool" target="Jonquil">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="424" source="Florian-the-Fool" target="Sansa-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="425" source="Gariss" target="Murch">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="426" source="Garlan-Tyrell" target="Joffrey-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="427" source="Garlan-Tyrell" target="Loras-Tyrell">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="428" source="Gendry" target="Hot-Pie">
+<data key="weight">23.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="429" source="Gendry" target="Jaqen-Hghar">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="430" source="Gendry" target="Lommy-Greenhands">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="431" source="Gendry" target="Woth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="432" source="Gendry" target="Yoren">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="433" source="Gregor-Clegane" target="Ilyn-Payne">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="434" source="Gregor-Clegane" target="Joffrey-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="435" source="Gregor-Clegane" target="Meryn-Trant">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="436" source="Gregor-Clegane" target="Polliver">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="437" source="Gregor-Clegane" target="Rafford">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="438" source="Gregor-Clegane" target="Sandor-Clegane">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="439" source="Gregor-Clegane" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="440" source="Gregor-Clegane" target="Tywin-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="441" source="Gregor-Clegane" target="Weese">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="442" source="Grenn" target="Jeor-Mormont">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="443" source="Grenn" target="Samwell-Tarly">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="444" source="Guyard-Morrigen" target="Renly-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="445" source="Gyles-Rosby" target="Jacelyn-Bywater">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="446" source="Gyles-Rosby" target="Joffrey-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="447" source="Gyles-Rosby" target="Lollys-Stokeworth">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="448" source="Gyles-Rosby" target="Sansa-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="449" source="Gyles-Rosby" target="Tanda-Stokeworth">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="450" source="Gyles-Rosby" target="Tommen-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="451" source="Gyles-Rosby" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="452" source="Gynir" target="Wex-Pyke">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="453" source="Hake" target="Jon-Snow">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="454" source="Hallis-Mollen" target="Wendel-Manderly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="455" source="Hallyne" target="Joffrey-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="456" source="Hallyne" target="Tyrion-Lannister">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="457" source="Halys-Hornwood" target="Rodrik-Cassel">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="458" source="Harren-Hoare" target="Nan">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="459" source="High-Septon-(fat_one)" target="Tyrion-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="460" source="High-Septon-(Tyrions)" target="Tyrion-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="461" source="Hobber-Redwyne" target="Horas-Redwyne">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="462" source="Hodor" target="Jojen-Reed">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="463" source="Hodor" target="Luwin">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="464" source="Hodor" target="Meera-Reed">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="465" source="Hodor" target="Osha">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="466" source="Hodor" target="Rickon-Stark">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="467" source="Hodor" target="Rodrik-Cassel">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="468" source="Hodor" target="Wyman-Manderly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="469" source="Horas-Redwyne" target="Joffrey-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="470" source="Hoster-Tully" target="Vyman">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="471" source="Hot-Pie" target="Lommy-Greenhands">
+<data key="weight">28.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="472" source="Hot-Pie" target="Mebble">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="473" source="Hot-Pie" target="Weasel">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="474" source="Hot-Pie" target="Woth">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="475" source="Hot-Pie" target="Yoren">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="476" source="Ilyn-Payne" target="Joffrey-Baratheon">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="477" source="Ilyn-Payne" target="Meryn-Trant">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="478" source="Ilyn-Payne" target="Polliver">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="479" source="Ilyn-Payne" target="Rafford">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="480" source="Ilyn-Payne" target="Sandor-Clegane">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="481" source="Ilyn-Payne" target="Sansa-Stark">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="482" source="Ilyn-Payne" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="483" source="Irri" target="Jhiqui">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="484" source="Jacelyn-Bywater" target="Janos-Slynt">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="485" source="Jacelyn-Bywater" target="Joffrey-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="486" source="Jacelyn-Bywater" target="Lancel-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="487" source="Jacelyn-Bywater" target="Tommen-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="488" source="Jacelyn-Bywater" target="Tyrion-Lannister">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="489" source="Jacelyn-Bywater" target="Varys">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="490" source="Jaime-Lannister" target="Joffrey-Baratheon">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="491" source="Jaime-Lannister" target="Jon-Snow">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="492" source="Jaime-Lannister" target="Mandon-Moore">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="493" source="Jaime-Lannister" target="Petyr-Baelish">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="494" source="Jaime-Lannister" target="Renly-Baratheon">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="495" source="Jaime-Lannister" target="Robb-Stark">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="496" source="Jaime-Lannister" target="Robert-Baratheon">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="497" source="Jaime-Lannister" target="Sansa-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="498" source="Jaime-Lannister" target="Stafford-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="499" source="Jaime-Lannister" target="Stannis-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="500" source="Jaime-Lannister" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="501" source="Jaime-Lannister" target="Tyrion-Lannister">
+<data key="weight">25.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="502" source="Jaime-Lannister" target="Tysha">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="503" source="Jaime-Lannister" target="Tywin-Lannister">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="504" source="Janos-Slynt" target="Joffrey-Baratheon">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="505" source="Janos-Slynt" target="Petyr-Baelish">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="506" source="Janos-Slynt" target="Tyrion-Lannister">
+<data key="weight">26.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="507" source="Janos-Slynt" target="Varys">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="508" source="Jaqen-Hghar" target="Rorge">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="509" source="Jaqen-Hghar" target="Weese">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="510" source="Jaqen-Hghar" target="Yoren">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="511" source="Jaremy-Rykker" target="Jeor-Mormont">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="512" source="Jaremy-Rykker" target="Thoren-Smallwood">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="513" source="Jarman-Buckwell" target="Jeor-Mormont">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="514" source="Jarman-Buckwell" target="Jon-Snow">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="515" source="Jarman-Buckwell" target="Thoren-Smallwood">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="516" source="Jason-Mallister" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="517" source="Jeor-Mormont" target="Jon-Snow">
+<data key="weight">63.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="518" source="Jeor-Mormont" target="Jorah-Mormont">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="519" source="Jeor-Mormont" target="Mance-Rayder">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="520" source="Jeor-Mormont" target="Ottyn-Wythers">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="521" source="Jeor-Mormont" target="Qhorin-Halfhand">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="522" source="Jeor-Mormont" target="Samwell-Tarly">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="523" source="Jeor-Mormont" target="Thoren-Smallwood">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="524" source="Jhogo" target="Jorah-Mormont">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="525" source="Joffrey-Baratheon" target="Lancel-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="526" source="Joffrey-Baratheon" target="Loras-Tyrell">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="527" source="Joffrey-Baratheon" target="Mace-Tyrell">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="528" source="Joffrey-Baratheon" target="Mandon-Moore">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="529" source="Joffrey-Baratheon" target="Margaery-Tyrell">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="530" source="Joffrey-Baratheon" target="Meryn-Trant">
+<data key="weight">19.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="531" source="Joffrey-Baratheon" target="Myrcella-Baratheon">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="532" source="Joffrey-Baratheon" target="Osmund-Kettleblack">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="533" source="Joffrey-Baratheon" target="Petyr-Baelish">
+<data key="weight">20.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="534" source="Joffrey-Baratheon" target="Polliver">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="535" source="Joffrey-Baratheon" target="Pycelle">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="536" source="Joffrey-Baratheon" target="Rafford">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="537" source="Joffrey-Baratheon" target="Renly-Baratheon">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="538" source="Joffrey-Baratheon" target="Robb-Stark">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="539" source="Joffrey-Baratheon" target="Robert-Baratheon">
+<data key="weight">20.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="540" source="Joffrey-Baratheon" target="Sandor-Clegane">
+<data key="weight">27.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="541" source="Joffrey-Baratheon" target="Sansa-Stark">
+<data key="weight">76.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="542" source="Joffrey-Baratheon" target="Stannis-Baratheon">
+<data key="weight">21.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="543" source="Joffrey-Baratheon" target="Tickler">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="544" source="Joffrey-Baratheon" target="Tommen-Baratheon">
+<data key="weight">23.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="545" source="Joffrey-Baratheon" target="Tyrion-Lannister">
+<data key="weight">92.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="546" source="Joffrey-Baratheon" target="Tywin-Lannister">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="547" source="Joffrey-Baratheon" target="Varys">
+<data key="weight">24.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="548" source="Joffrey-Baratheon" target="Yoren">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="549" source="Jojen-Reed" target="Luwin">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="550" source="Jojen-Reed" target="Meera-Reed">
+<data key="weight">18.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="551" source="Jojen-Reed" target="Osha">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="552" source="Jojen-Reed" target="Rickon-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="553" source="Jon-Fossoway" target="Mathis-Rowan">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="554" source="Jon-Snow" target="Lark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="555" source="Jon-Snow" target="Mance-Rayder">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="556" source="Jon-Snow" target="Nan">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="557" source="Jon-Snow" target="Ottyn-Wythers">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="558" source="Jon-Snow" target="Qhorin-Halfhand">
+<data key="weight">47.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="559" source="Jon-Snow" target="Rattleshirt">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="560" source="Jon-Snow" target="Rickon-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="561" source="Jon-Snow" target="Robb-Stark">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="562" source="Jon-Snow" target="Robert-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="563" source="Jon-Snow" target="Samwell-Tarly">
+<data key="weight">52.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="564" source="Jon-Snow" target="Stonesnake">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="565" source="Jon-Snow" target="Thoren-Smallwood">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="566" source="Jon-Snow" target="Ygritte">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="567" source="Jon-Umber-(Greatjon)" target="Robb-Stark">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="568" source="Jorah-Mormont" target="Pono">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="569" source="Jorah-Mormont" target="Rakharo">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="570" source="Jorah-Mormont" target="Rhaegar-Targaryen">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="571" source="Jorah-Mormont" target="Robert-Baratheon">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="572" source="Koss" target="Yoren">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="573" source="Kyra" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="574" source="Lancel-Lannister" target="Robert-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="575" source="Lancel-Lannister" target="Sansa-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="576" source="Lancel-Lannister" target="Tyrion-Lannister">
+<data key="weight">18.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="577" source="Lancel-Lannister" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="578" source="Leobald-Tallhart" target="Rodrik-Cassel">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="579" source="Lollys-Stokeworth" target="Tanda-Stokeworth">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="580" source="Lommy-Greenhands" target="Weasel">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="581" source="Lommy-Greenhands" target="Woth">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="582" source="Lommy-Greenhands" target="Yoren">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="583" source="Loras-Tyrell" target="Mace-Tyrell">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="584" source="Loras-Tyrell" target="Renly-Baratheon">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="585" source="Loras-Tyrell" target="Robert-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="586" source="Loras-Tyrell" target="Stannis-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="587" source="Loras-Tyrell" target="Tyrion-Lannister">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="588" source="Lorent-Caswell" target="Renly-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="589" source="Lorren" target="Squint">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="590" source="Lorren" target="Theon-Greyjoy">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="591" source="Lorren" target="Urzen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="592" source="Lorren" target="Wex-Pyke">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="593" source="Luwin" target="Meera-Reed">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="594" source="Luwin" target="Osha">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="595" source="Luwin" target="Rickon-Stark">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="596" source="Luwin" target="Robb-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="597" source="Luwin" target="Rodrik-Cassel">
+<data key="weight">18.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="598" source="Luwin" target="Theon-Greyjoy">
+<data key="weight">17.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="599" source="Luwin" target="Walder-Frey-(son-of-Merrett)">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="600" source="Lysa-Arryn" target="Tyrion-Lannister">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="601" source="Mace-Tyrell" target="Paxter-Redwyne">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="602" source="Mace-Tyrell" target="Randyll-Tarly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="603" source="Mace-Tyrell" target="Renly-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="604" source="Mace-Tyrell" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="605" source="Mance-Rayder" target="Qhorin-Halfhand">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="606" source="Mance-Rayder" target="Thoren-Smallwood">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="607" source="Mandon-Moore" target="Sandor-Clegane">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="608" source="Mandon-Moore" target="Sansa-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="609" source="Mandon-Moore" target="Tyrion-Lannister">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="610" source="Margaery-Tyrell" target="Renly-Baratheon">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="611" source="Margaery-Tyrell" target="Sansa-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="612" source="Margaery-Tyrell" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="613" source="Martyn-Rivers" target="Robb-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="614" source="Mathis-Rowan" target="Randyll-Tarly">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="615" source="Mathis-Rowan" target="Renly-Baratheon">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="616" source="Mathis-Rowan" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="617" source="Meera-Reed" target="Osha">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="618" source="Meera-Reed" target="Rickon-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="619" source="Melisandre" target="Renly-Baratheon">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="620" source="Melisandre" target="Selyse-Florent">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="621" source="Melisandre" target="Stannis-Baratheon">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="622" source="Meryn-Trant" target="Osmund-Kettleblack">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="623" source="Meryn-Trant" target="Polliver">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="624" source="Meryn-Trant" target="Rafford">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="625" source="Meryn-Trant" target="Sandor-Clegane">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="626" source="Meryn-Trant" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="627" source="Meryn-Trant" target="Tyrion-Lannister">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="628" source="Mikken" target="Osha">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="629" source="Mikken" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="630" source="Monford-Velaryon" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="631" source="Myrcella-Baratheon" target="Robb-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="632" source="Myrcella-Baratheon" target="Robert-Arryn">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="633" source="Myrcella-Baratheon" target="Sandor-Clegane">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="634" source="Myrcella-Baratheon" target="Sansa-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="635" source="Myrcella-Baratheon" target="Tommen-Baratheon">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="636" source="Myrcella-Baratheon" target="Trystane-Martell">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="637" source="Myrcella-Baratheon" target="Tyrion-Lannister">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="638" source="Olyvar-Frey" target="Robb-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="639" source="Osha" target="Rickon-Stark">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="640" source="Osha" target="Robb-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="641" source="Osha" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="642" source="Osmund-Kettleblack" target="Osney-Kettleblack">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="643" source="Osmund-Kettleblack" target="Sansa-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="644" source="Osmund-Kettleblack" target="Tyrion-Lannister">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="645" source="Ottyn-Wythers" target="Samwell-Tarly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="646" source="Palla" target="Theon-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="647" source="Patchface" target="Stannis-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="648" source="Perwyn-Frey" target="Robb-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="649" source="Perwyn-Frey" target="Wendel-Manderly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="650" source="Petyr-Baelish" target="Podrick-Payne">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="651" source="Petyr-Baelish" target="Pycelle">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="652" source="Petyr-Baelish" target="Renly-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="653" source="Petyr-Baelish" target="Sansa-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="654" source="Petyr-Baelish" target="Stannis-Baratheon">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="655" source="Petyr-Baelish" target="Tyrion-Lannister">
+<data key="weight">41.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="656" source="Petyr-Baelish" target="Varys">
+<data key="weight">27.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="657" source="Podrick-Payne" target="Tyrion-Lannister">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="658" source="Polliver" target="Rafford">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="659" source="Polliver" target="Sandor-Clegane">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="660" source="Polliver" target="Tickler">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="661" source="Polliver" target="Weese">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="662" source="Preston-Greenfield" target="Tyrion-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="663" source="Pyat-Pree" target="Xaro-Xhoan-Daxos">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="664" source="Pycelle" target="Robert-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="665" source="Pycelle" target="Shagga">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="666" source="Pycelle" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="667" source="Pycelle" target="Tyrion-Lannister">
+<data key="weight">21.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="668" source="Pycelle" target="Varys">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="669" source="Pylos" target="Shireen-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="670" source="Pylos" target="Stannis-Baratheon">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="671" source="Qhorin-Halfhand" target="Rattleshirt">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="672" source="Qhorin-Halfhand" target="Stonesnake">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="673" source="Qhorin-Halfhand" target="Thoren-Smallwood">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="674" source="Qyburn" target="Roose-Bolton">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="675" source="Rafford" target="Sandor-Clegane">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="676" source="Rafford" target="Tickler">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="677" source="Ramsay-Snow" target="Reek">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="678" source="Ramsay-Snow" target="Robb-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="679" source="Ramsay-Snow" target="Rodrik-Cassel">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="680" source="Ramsay-Snow" target="Roose-Bolton">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="681" source="Randyll-Tarly" target="Renly-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="682" source="Randyll-Tarly" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="683" source="Rattleshirt" target="Ygritte">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="684" source="Ramsay-Snow" target="Theon-Greyjoy">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="685" source="Renly-Baratheon" target="Robb-Stark">
+<data key="weight">22.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="686" source="Renly-Baratheon" target="Robert-Baratheon">
+<data key="weight">29.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="687" source="Renly-Baratheon" target="Sansa-Stark">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="688" source="Renly-Baratheon" target="Stannis-Baratheon">
+<data key="weight">70.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="689" source="Renly-Baratheon" target="Steffon-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="690" source="Renly-Baratheon" target="Tyrion-Lannister">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="691" source="Renly-Baratheon" target="Tywin-Lannister">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="692" source="Renly-Baratheon" target="Varys">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="693" source="Rhaegar-Targaryen" target="Robert-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="694" source="Rhaegar-Targaryen" target="Viserys-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="695" source="Rhaenys-Targaryen" target="Visenya-Targaryen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="696" source="Rickard-Karstark" target="Robb-Stark">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="697" source="Rickon-Stark" target="Robb-Stark">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="698" source="Rickon-Stark" target="Rodrik-Cassel">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="699" source="Rickon-Stark" target="Sansa-Stark">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="700" source="Rickon-Stark" target="Theon-Greyjoy">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="701" source="Rickon-Stark" target="Walder-Frey-(son-of-Merrett)">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="702" source="Robb-Stark" target="Robert-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="703" source="Robb-Stark" target="Rodrik-Cassel">
+<data key="weight">9.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="704" source="Robb-Stark" target="Roose-Bolton">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="705" source="Robb-Stark" target="Sansa-Stark">
+<data key="weight">11.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="706" source="Robb-Stark" target="Stafford-Lannister">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="707" source="Robb-Stark" target="Stannis-Baratheon">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="708" source="Robb-Stark" target="Theon-Greyjoy">
+<data key="weight">21.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="709" source="Robb-Stark" target="Tyrion-Lannister">
+<data key="weight">18.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="710" source="Robb-Stark" target="Tywin-Lannister">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="711" source="Robb-Stark" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="712" source="Robb-Stark" target="Walder-Frey">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="713" source="Robb-Stark" target="Wyman-Manderly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="714" source="Robert-Baratheon" target="Sansa-Stark">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="715" source="Robert-Baratheon" target="Stannis-Baratheon">
+<data key="weight">25.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="716" source="Robert-Baratheon" target="Tyrion-Lannister">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="717" source="Robert-Baratheon" target="Tywin-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="718" source="Robert-Baratheon" target="Varys">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="719" source="Robett-Glover" target="Rorge">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="720" source="Robett-Glover" target="Vargo-Hoat">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="721" source="Rodrik-Cassel" target="Roose-Bolton">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="722" source="Rodrik-Cassel" target="Theon-Greyjoy">
+<data key="weight">12.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="723" source="Rodrik-Cassel" target="Walder-Frey-(son-of-Merrett)">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="724" source="Rodrik-Cassel" target="Wyman-Manderly">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="725" source="Roose-Bolton" target="Tywin-Lannister">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="726" source="Roose-Bolton" target="Vargo-Hoat">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="727" source="Roose-Bolton" target="Walder-Frey">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="728" source="Rorge" target="Vargo-Hoat">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="729" source="Rorge" target="Yoren">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="730" source="Salladhor-Saan" target="Stannis-Baratheon">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="731" source="Sandor-Clegane" target="Sansa-Stark">
+<data key="weight">19.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="732" source="Sandor-Clegane" target="Tickler">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="733" source="Sandor-Clegane" target="Tommen-Baratheon">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="734" source="Sandor-Clegane" target="Tyrion-Lannister">
+<data key="weight">13.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="735" source="Sansa-Stark" target="Stannis-Baratheon">
+<data key="weight">8.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="736" source="Sansa-Stark" target="Tanda-Stokeworth">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="737" source="Sansa-Stark" target="Tommen-Baratheon">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="738" source="Sansa-Stark" target="Tyrion-Lannister">
+<data key="weight">31.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="739" source="Selyse-Florent" target="Stannis-Baratheon">
+<data key="weight">15.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="740" source="Shadd" target="Wendel-Manderly">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="741" source="Shae" target="Stannis-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="742" source="Shae" target="Tyrion-Lannister">
+<data key="weight">30.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="743" source="Shae" target="Tysha">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="744" source="Shae" target="Varys">
+<data key="weight">16.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="745" source="Shagga" target="Timett">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="746" source="Shagga" target="Tyrion-Lannister">
+<data key="weight">15.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="747" source="Squint" target="Theon-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="748" source="Stannis-Baratheon" target="Steffon-Baratheon">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="749" source="Stannis-Baratheon" target="Tyrion-Lannister">
+<data key="weight">39.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="750" source="Stannis-Baratheon" target="Tywin-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="751" source="Stannis-Baratheon" target="Varys">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="752" source="Stonesnake" target="Ygritte">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="753" source="Stygg" target="Theon-Greyjoy">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="754" source="Stygg" target="Werlag">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="755" source="Syrio-Forel" target="Yoren">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="756" source="Tanda-Stokeworth" target="Tyrion-Lannister">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="757" source="Theon-Greyjoy" target="Urzen">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="758" source="Theon-Greyjoy" target="Victarion-Greyjoy">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="759" source="Theon-Greyjoy" target="Werlag">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="760" source="Theon-Greyjoy" target="Wex-Pyke">
+<data key="weight">14.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="761" source="Timett" target="Tyrion-Lannister">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="762" source="Timett" target="Varys">
+<data key="weight">3.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="763" source="Tommen-Baratheon" target="Tyrion-Lannister">
+<data key="weight">10.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="764" source="Tyrion-Lannister" target="Tysha">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="765" source="Tyrion-Lannister" target="Tywin-Lannister">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="766" source="Tyrion-Lannister" target="Varys">
+<data key="weight">63.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="767" source="Tyrion-Lannister" target="Vylarr">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="768" source="Tywin-Lannister" target="Vargo-Hoat">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="769" source="Tywin-Lannister" target="Weese">
+<data key="weight">7.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="770" source="Walder-Frey-(son-of-Jammos)" target="Walder-Frey-(son-of-Merrett)">
+<data key="weight">5.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="771" source="Walder-Frey-(son-of-Merrett)" target="Wex-Pyke">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="772" source="Weasel" target="Weese">
+<data key="weight">6.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="773" source="Woth" target="Yoren">
+<data key="weight">4.0</data>
+<data key="book">2</data>
+</edge>
+<edge id="774" source="Palla" target="Ramsay-Snow">
+<data key="weight">3.0</data>
+</edge>
+</graph>
+</graphml>
